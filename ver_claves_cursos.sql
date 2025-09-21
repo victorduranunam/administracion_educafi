@@ -1,0 +1,1 @@
+SELECT id, fullname  FROM edu_course order by fullname asc;
