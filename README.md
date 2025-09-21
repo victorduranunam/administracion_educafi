@@ -8,10 +8,7 @@ Estos scripts incluyen, entre otros:
 - Extracción y procesamiento de información de usuarios y cursos.  
 - Generación de reportes administrativos.  
 
-## Estructura del repositorio
 
-- `scripts/` → Carpeta con los scripts organizados por lenguaje o funcionalidad.  
-- `README.md` → Este archivo, con la descripción del repositorio.  
 
 ## Objetivo
 
